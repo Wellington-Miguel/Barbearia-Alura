@@ -1,15 +1,19 @@
 body {
     background-image: url('background.jpg');
     background-size: 100%;
+   
+    
 }
 #banner{
     width: 100%;
 }
 .principal{
     background-color: antiquewhite;
+    padding-bottom: 10px;
 
 }
-h1{
+.text_center{
+    padding-top: 10px;
     text-align: center;
 }
 p {
@@ -23,5 +27,32 @@ em strong{
     color: red;
 }
 .item{
+    justify-content: center;
     font-style: italic;
+   
+}
+.lista{
+    justify-content: center;
+    display: inline-block;
+}
+
+
+.image_beneficios{
+    width: 40%;
+    padding-left: 20px;
+    
+}
+.beneficios{   
+    margin-left: 30%;
+    margin-right: 30%;
+    justify-content: center;
+    justify-items: center;
+    align-self: normal;
+    display: flexbox;
+    background-color: antiquewhite;
+}
+row_items{
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
 }
