@@ -1,2 +1,2 @@
-# Atividade-HTML5-CSS3
-Exercícios e projetos desenvolvidos para aprendizado das ferramentas HTML3 e CSS5
+# Projeto: Barbearia Alura
+Exercício do curso de HTML e CSS da Alura, visando criar um site para uma barbearia. 
